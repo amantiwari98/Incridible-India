@@ -1,0 +1,38 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.nav_bar{
+    background-color: white;
+    padding: 5px;
+}
+.nav-link{
+    color: black;
+    font-size: 18px;
+}
+.navbar {
+    position: relative;
+}
+.navbar-brand {
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    left: 50%;
+    margin-left: -50px !important;  /* 50% of your logo width */
+    display: block;
+}
+.caro p{
+    word-spacing:3px;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon{
+    background-color: transparent;
+    color: rgb(192, 83, 83);
+    padding: 30px 20px;
+}
+/* .sec_img img{
+   width: auto;
+   height: 190px;
+} */

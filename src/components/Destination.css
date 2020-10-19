@@ -1,0 +1,23 @@
+.body{
+    background-color: #17406c;
+    height: 100%;
+}
+.desti img{
+    box-shadow: 10px 8px  15px #4fa4ff;
+    cursor: pointer;
+}
+.desti p{
+    color: white;
+}
+.state p{
+    color: white;
+    margin-top: 8px;
+}
+.state li{
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+}
+.state ul{
+    padding-left: 0px;
+}
